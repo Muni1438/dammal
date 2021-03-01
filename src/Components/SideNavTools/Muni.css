@@ -1,0 +1,30 @@
+.h1Tag{
+    color: rgb(23, 141, 141);
+    text-decoration: underline;
+    text-decoration-color: aquamarine;
+}
+.inputTag{
+
+    height: 30px;
+    width: 200px;
+    /* outline-color: orange; */
+    border-top: none;
+    border-bottom-color: paleturquoise;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    font-size: 25px;
+    
+}
+.h2Tag{
+    font-size: 30px;
+    width: fit-content;
+    height: fit-content;
+    background-color: rgb(136, 169, 177);
+    border: slategrey 2px solid;
+    margin:25px auto 25px auto;
+    border-radius: 3px;
+    color: snow;
+    
+    padding: 2px 5px 2px 5px;
+}

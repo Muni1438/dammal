@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`All about Todo App About h1 tag  1`] = `
+<DocumentFragment>
+  <div>
+    <form>
+      <h1
+        class="h1Tag"
+      >
+        ToDo App By Muni Kumar
+      </h1>
+      <input
+        class="inputTag"
+        data-testid="inputTag"
+        placeholder="/........"
+        type="text"
+        value=""
+      />
+    </form>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`All about Todo App about Fetching 1`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      Fetch A Movie
+    </button>
+    <div>
+      <h3>
+        Hero: Ram
+      </h3>
+      <h1>
+        Movie: Rangasthalam
+      </h1>
+    </div>
+    <input
+      type="text"
+      value=""
+    />
+    <button>
+      Focus
+    </button>
+  </div>
+</DocumentFragment>
+`;
